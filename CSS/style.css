@@ -38,3 +38,7 @@ footer {
 a {
   color: hotpink  ;
 }
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
